@@ -268,11 +268,6 @@
         <item>Ружичаста</item>
         <item>Црвена</item>
      </string-array>
-     <string-array name="common_password_business_names">
-        <item>Zaklj. zaslona</item>
-        <item>Dječji način</item>
-        <item>File explorer</item>
-     </string-array>
      <string-array name="data_usage_data_range">
         <item>Последњих 30 дана</item>
         <item>Подеси циклус употребе...</item>
